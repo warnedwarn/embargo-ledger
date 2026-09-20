@@ -1,0 +1,13 @@
+{
+  "contractAddress": "0xcD1e9c5d4EBa7DC26E2b45a4a79c6d51d686DDC9",
+  "wallet": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+  "sourceMatchVerified": true,
+  "liveMethod": "seal",
+  "liveRecordId": "LIVE-EMB-1789928201",
+  "liveTransaction": "0x05191b6c997df4d122bccf2b4317152c33b1da7a0e4f5b05ae0ed95d3ee7348f",
+  "liveStatus": "FINALIZED",
+  "liveConsensus": "MAJORITY_AGREE",
+  "liveExecution": "SUCCESS",
+  "liveState": "SEALED",
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0xcD1e9c5d4EBa7DC26E2b45a4a79c6d51d686DDC9"
+}
