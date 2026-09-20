@@ -1,0 +1,4 @@
+EMBARGO LEDGER TECHNICAL FIXTURE / REDACTION POLICY
+0 Redact private witness identity.
+1 Preserve the technical finding.
+
