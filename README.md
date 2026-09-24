@@ -6,6 +6,8 @@ The filer stores a SHA-256 commitment and nominates a custodian and reviewer. Th
 
 Validators compare the full document, public release, and frozen policy rule by rule. A compliant review opens a public scrutiny window. Fresh-origin evidence can still flag a material redaction breach; otherwise anyone may close the accession as `RELEASED`. A missed reveal becomes `MISSED_REVEAL` without relying on the filer.
 
+Every retrieved body must be valid UTF-8 and at most 14,000 bytes. Larger policy, document, release, or flag bodies fail closed instead of being truncated. A public flag also refetches and digest-checks the frozen policy and exact reviewed release before it can change the accession state.
+
 ```text
 SEALED -> REVEALED -> REVIEWED -> RELEASED
                     |          -> FLAGGED
