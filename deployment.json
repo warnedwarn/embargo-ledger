@@ -1,17 +1,18 @@
 {
   "project": "embargo-ledger",
   "network": "StudioNet",
-  "contractAddress": "0xcD1e9c5d4EBa7DC26E2b45a4a79c6d51d686DDC9",
-  "deploymentTransaction": "0x1afbf42daffea6d017565a8b5228cf14976a2566372aee7ba3b4d0f18d973de5",
+  "contractAddress": "0x2b6eb0a6bc858665D9176504A265f6e761b61FA5",
+  "deploymentTransaction": "0x8b7fdc754af59a4c434b61ecfbc7418d7169ae39ae4cc18d58d5b37647ffe97d",
   "status": "FINALIZED",
   "consensus": "MAJORITY_AGREE",
   "execution": "SUCCESS",
-  "sourceCommit": "a147548d579844b1d7a9d2ce716b74793fb70b52",
+  "sourceCommit": "515cb07a15074e11649348454fc577afc8cd41da",
+  "sourceSha256": "d93f60399f36e350c12621b65c81cdf8066081477c7ff72357bb3cd2a917e28d",
   "repository": "https://github.com/warnedwarn/embargo-ledger",
   "sourceMatchVerified": true,
   "wallet": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
-  "liveInitializationTransaction": "0x05191b6c997df4d122bccf2b4317152c33b1da7a0e4f5b05ae0ed95d3ee7348f",
-  "liveRecordId": "LIVE-EMB-1789928201",
+  "liveInitializationTransaction": "0x3f3f5889f44510c27f0e1ad7aba0c973931f2e3fbba287da4a2a89ff11876d20",
+  "liveRecordId": "REMEDIATION-1790253471",
   "liveState": "SEALED",
-  "explorerAddress": "https://explorer-studio.genlayer.com/address/0xcD1e9c5d4EBa7DC26E2b45a4a79c6d51d686DDC9"
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0x2b6eb0a6bc858665D9176504A265f6e761b61FA5"
 }

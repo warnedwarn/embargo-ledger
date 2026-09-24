@@ -23,3 +23,7 @@ python -m pytest -q
 ```
 
 Files under `evidence/` are technical fixtures. They prove the workflow, not independent authority.
+
+## Current StudioNet docket
+
+The corrected source is deployed at [`0x2b6eb0a6bc858665D9176504A265f6e761b61FA5`](https://explorer-studio.genlayer.com/address/0x2b6eb0a6bc858665D9176504A265f6e761b61FA5). Record `REMEDIATION-1790253471` finalized its `seal` transaction successfully and stores the fetched policy digest. Deployment and transaction hashes are recorded in `deployment.json` and `network-run.json`.
